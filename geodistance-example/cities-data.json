@@ -1,0 +1,128 @@
+[
+    {
+      "city": "Boulder",
+      "state": "CO",
+      "location": { "lat": 40.0150, "lon": -105.2705 }
+    },
+    {
+      "city": "Asheville",
+      "state": "NC",
+      "location": { "lat": 35.5951, "lon": -82.5515 }
+    },
+    {
+      "city": "Santa Fe",
+      "state": "NM",
+      "location": { "lat": 35.6870, "lon": -105.9378 }
+    },
+    {
+      "city": "Charlottesville",
+      "state": "VA",
+      "location": { "lat": 38.0293, "lon": -78.4767 }
+    },
+    {
+      "city": "Bend",
+      "state": "OR",
+      "location": { "lat": 44.0582, "lon": -121.3153 }
+    },
+    {
+      "city": "Bozeman",
+      "state": "MT",
+      "location": { "lat": 45.6770, "lon": -111.0429 }
+    },
+    {
+      "city": "Flagstaff",
+      "state": "AZ",
+      "location": { "lat": 35.1983, "lon": -111.6513 }
+    },
+    {
+      "city": "Savannah",
+      "state": "GA",
+      "location": { "lat": 32.0809, "lon": -81.0912 }
+    },
+    {
+      "city": "Missoula",
+      "state": "MT",
+      "location": { "lat": 46.8721, "lon": -113.9940 }
+    },
+    {
+      "city": "Reno",
+      "state": "NV",
+      "location": { "lat": 39.5296, "lon": -119.8138 }
+    },
+    {
+      "city": "Fargo",
+      "state": "ND",
+      "location": { "lat": 46.8772, "lon": -96.7898 }
+    },
+    {
+      "city": "Ithaca",
+      "state": "NY",
+      "location": { "lat": 42.4439, "lon": -76.5019 }
+    },
+    {
+      "city": "Madison",
+      "state": "WI",
+      "location": { "lat": 43.0731, "lon": -89.4012 }
+    },
+    {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "location": { "lat": 42.2808, "lon": -83.7430 }
+    },
+    {
+      "city": "Fort Collins",
+      "state": "CO",
+      "location": { "lat": 40.5853, "lon": -105.0844 }
+    },
+    {
+      "city": "Eugene",
+      "state": "OR",
+      "location": { "lat": 44.0521, "lon": -123.0868 }
+    },
+    {
+      "city": "Santa Cruz",
+      "state": "CA",
+      "location": { "lat": 36.9741, "lon": -122.0308 }
+    },
+    {
+      "city": "Chattanooga",
+      "state": "TN",
+      "location": { "lat": 35.0456, "lon": -85.3097 }
+    },
+    {
+      "city": "Aspen",
+      "state": "CO",
+      "location": { "lat": 39.1911, "lon": -106.8175 }
+    },
+    {
+      "city": "Tallahassee",
+      "state": "FL",
+      "location": { "lat": 30.4383, "lon": -84.2807 }
+    },
+    {
+      "city": "Lincoln",
+      "state": "NE",
+      "location": { "lat": 40.8136, "lon": -96.7026 }
+    },
+    {
+      "city": "Lubbock",
+      "state": "TX",
+      "location": { "lat": 33.5779, "lon": -101.8552 }
+    },
+    {
+      "city": "Syracuse",
+      "state": "NY",
+      "location": { "lat": 43.0481, "lon": -76.1474 }
+    },
+    {
+      "city": "Lexington",
+      "state": "KY",
+      "location": { "lat": 38.0406, "lon": -84.5037 }
+    },
+    {
+      "city": "Columbia",
+      "state": "MO",
+      "location": { "lat": 38.9517, "lon": -92.3341 }
+    }
+  ]
+  

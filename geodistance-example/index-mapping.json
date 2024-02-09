@@ -1,0 +1,10 @@
+{
+    "mappings": {
+      "properties": {
+        "city": { "type": "text" },
+        "state": { "type": "text" },
+        "location": { "type": "geo_point" }
+      }
+    }
+  }
+  

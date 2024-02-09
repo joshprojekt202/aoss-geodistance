@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-opensearchserverless": "^3.509.0",
+    "@aws-sdk/credential-provider-node": "^3.509.0",
+    "@opensearch-project/opensearch": "^2.5.0",
+    "aws-sdk": "^2.1553.0",
+    "aws4": "^1.12.0",
+    "axios": "^1.6.7"
+  }
+}
